@@ -1,0 +1,44 @@
+
+body{
+    background: black;
+    font-color: red;
+}
+
+h1 {
+    font-family: verdana;
+    text-align: center;
+    color: red;
+    
+    
+
+}
+#spel {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: verdana;
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    
+    
+
+}
+
+main img {
+    border-radius: 20px;
+}
+
+
+#img {
+    border-radius: 40%;
+
+    position: absolute;
+    top: 170px;
+    left: 70px;
+    
+}
+
